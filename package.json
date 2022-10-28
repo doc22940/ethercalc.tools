@@ -19,7 +19,7 @@
     "socialcalc": "^2.3.0",
     "uuid-pure": "*",
     "xoauth2": "*",
-    "zappajs": "0.5.x"
+    "zappajs": "6.5.x"
   },
   "optionalDependencies": {
     "webworker-threads": "^0.7.1"
